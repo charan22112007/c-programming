@@ -12,6 +12,6 @@ main()
 	}
 	else
 	{
-		printf("The given  O. is in valid....");
+		printf("The given  NO. is in valid....");
 	}
 }
